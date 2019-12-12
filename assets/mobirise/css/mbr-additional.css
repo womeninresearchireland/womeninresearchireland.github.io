@@ -685,30 +685,27 @@ section.lazy-placeholder:after {
 .cid-rKm0PwWFee .mbr-section-btn {
   color: #1e0b28;
 }
-.cid-rKhU5oPSNw {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-rKoMBZgZ2G {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rKhU5oPSNw h3 {
-  text-align: center;
-}
-.cid-rKhU5oPSNw .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rKhU5oPSNw .mbr-content-text {
+.cid-rKoMBZgZ2G .mbr-text {
   color: #000000;
 }
-.cid-rKhU5oPSNw .panel-item {
-  background: #ffffff;
+.cid-rKoMBZgZ2G h4 {
+  text-align: center;
 }
-.cid-rKhU5oPSNw .card {
-  word-wrap: break-word;
+.cid-rKoMBZgZ2G p {
+  text-align: center;
 }
-.cid-rKhU5oPSNw .mbr-iconfont {
-  font-size: 80px;
+.cid-rKoMBZgZ2G .card-img span {
+  font-size: 96px;
   color: #149dcc;
+}
+.cid-rKoMBZgZ2G .card-title,
+.cid-rKoMBZgZ2G .card-img {
+  color: #000000;
 }
 .cid-rKhQsILw5d {
   padding-top: 0px;
