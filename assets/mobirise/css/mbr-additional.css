@@ -2959,6 +2959,56 @@ section.lazy-placeholder:after {
 .cid-rKn27pxfh6 H2 {
   text-align: center;
 }
+.cid-rKn27pxfh6 .card-title {
+  color: #767676;
+}
+.cid-rKn27pxfh6 P {
+  color: #767676;
+}
+.cid-skjzl727z7 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-skjzl727z7 h2 {
+  margin-bottom: 0;
+}
+.cid-skjzl727z7 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-skjzl727z7 p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-skjzl727z7 .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-skjzl727z7 .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-skjzl727z7 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-skjzl727z7 .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-skjzl727z7 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-skjzl727z7 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
 .cid-rSmU0FZPyc {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3954,6 +4004,50 @@ section.lazy-placeholder:after {
 .cid-rKnRR16g7q .nav-link:hover,
 .cid-rKnRR16g7q .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-skjzjyGsEc {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-skjzjyGsEc h2 {
+  margin-bottom: 0;
+}
+.cid-skjzjyGsEc h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-skjzjyGsEc p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-skjzjyGsEc .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-skjzjyGsEc .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-skjzjyGsEc .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-skjzjyGsEc .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-skjzjyGsEc .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-skjzjyGsEc .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
 }
 .cid-rKlVcTiWwG {
   padding-top: 135px;
