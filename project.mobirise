@@ -112,9 +112,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/wiri-logo-high-res-transparent-copy-2-128x75.png",
     "noImageResize": null,
     "robotsSwitcher": true,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://womeninresearch.ie/index.html",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#000000",
