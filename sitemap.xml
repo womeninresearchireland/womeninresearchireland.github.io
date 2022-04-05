@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://womeninresearch.ie/index.html/index.html</loc>
-	</url>
-	<url>
 		<loc>https://womeninresearch.ie/index.html/about.html</loc>
 	</url>
 	<url>
@@ -31,5 +28,8 @@
 	</url>
 	<url>
 		<loc>https://womeninresearch.ie/index.html/(un)privileged.html</loc>
+	</url>
+	<url>
+		<loc>https://womeninresearch.ie/index.html/home.html</loc>
 	</url>
 </urlset>
